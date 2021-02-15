@@ -1,0 +1,20 @@
+Python 
+	-flask
+	-Django
+
+Numpy
+Statistics : Univariable tendency , Bivariant 
+Pandas : 
+	Funnel
+	AB TESTING
+	Churn Analysis	
+	etc..
+Machine Learning : sckit learn, svm , xgboast, random forest
+Deep Learning : Neural networks 
+aws 
+
+
+django-adming startproject myprojectname (run in vscode console)
+cd projectName
+python manage.py runserver
+django-admin createsuperuser

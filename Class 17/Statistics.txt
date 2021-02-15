@@ -1,0 +1,19 @@
+ByVariant :
+
+Covariance 
+is how much 2 variables are varying from eachother
+What is the direction, positive or negative of 2 variables
+if one is increasing the other is increasing? same direction
+
+
+Corelation 
+when changing in one variable variates the other variable.
+Whats the magnitude of the direction in 2 variable.
+
+The range will always be -1 to +1  and the origin is 0, if the value is
+0 then there is no relationship between two variable
+
+
+
+
+
