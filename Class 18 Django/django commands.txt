@@ -1,0 +1,3 @@
+django-admin createproject myproject
+cd .... 
+python manage.py runserver
